@@ -6,12 +6,11 @@
 
 
 <a href="https://github.com/andrewrindge/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewrindge&repo=github-readme-stats&hide=stars&include_all_commits" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars&include_all_commits" />
 </a>
 <a href="https://github.com/andrewrindge/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact" />
 </a>
-
 <!---
 andrewrindge/andrewrindge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
