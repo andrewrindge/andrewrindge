@@ -5,9 +5,12 @@
 - 📫 Feel free to reach out to arindge [@] uw.edu
 
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars&include_all_commits)](https://github.com/andrewrindge/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact)](https://github.com/andrewrindge/github-readme-stats)
+<a href="https://github.com/andrewrindge/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewrindge&repo=github-readme-stats&hide=stars&include_all_commits" />
+</a>
+<a href="https://github.com/andrewrindge/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact" />
+</a>
 
 <!---
 andrewrindge/andrewrindge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
