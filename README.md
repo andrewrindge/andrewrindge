@@ -7,7 +7,7 @@
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars)](https://github.com/andrewrindge/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge)](https://github.com/andrewrindge/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact)](https://github.com/andrewrindge/github-readme-stats)
 
 <!---
 andrewrindge/andrewrindge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
