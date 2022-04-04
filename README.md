@@ -5,7 +5,7 @@
 - 📫 Feel free to reach out to arindge [@] uw.edu
 
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars)](https://github.com/andrewrindge/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars&include_all_commits)](https://github.com/andrewrindge/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact)](https://github.com/andrewrindge/github-readme-stats)
 
