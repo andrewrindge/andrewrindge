@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning web development, if I'm not spending my time in the outdoors :)
 - 📫 Feel free to reach out to arindge [@] uw.edu
 
-
-<a href="https://github.com/andrewrindge/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewrindge&hide=stars&include_all_commits" />
-</a>
 <a href="https://github.com/andrewrindge/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrindge&layout=compact" />
 </a>
