@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewrindge, a third year undergraduate studying computer science at the University of Washington.
+- 👋 Hi I’m Andrew, a third year undergraduate studying computer science at the University of Washington.
 - 🖥 I'm experienced with Java, C/C++, JavaScript, SQL, HTML/CSS and a tiny bit of Python. 
 - 👀 I’m interested in all things software, but particularly technological developments and tools related to sustainability.
 - 🌱 I’m currently studying systems programming and database management at UW.
